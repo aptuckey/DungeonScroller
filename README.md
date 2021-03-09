@@ -2,16 +2,17 @@
 Installation
 
 WINDOWS:
-	Download all the project files to one folder and run dungeonScroller.exe
+	Download all the project files, extract, and run dungeonScroller.exe
 
-	Alternatively, downloaded this zipped folder( https://drive.google.com/file/d/1GoPt-jikjHRLDaVtqQ7Q8vZZ9iQYIJ1k/view?usp=sharing) , extract, and run dungeonScroller.exe
-
+	Alternatively, downloaded this zipped folder, extract, and run dungeonScroller.exe
+	https://drive.google.com/file/d/1GoPt-jikjHRLDaVtqQ7Q8vZZ9iQYIJ1k/view?usp=sharing
 
 
 MAC:
+	Dowload the folder and extract the files, you should be left with mac.app
 	https://drive.google.com/file/d/1qJ36dErri80qnHf6B09ss-gAXUmWLDtj/view?usp=sharing
 
-	Dowload the folder and extract the files, you should be left with mac.app
+	
 
 	Running the following commands to add executable permissions to the file.
 	
