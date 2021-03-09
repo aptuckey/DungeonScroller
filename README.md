@@ -7,3 +7,9 @@ Alternatively, downloaded this zipped folder( https://drive.google.com/file/d/1G
 
 Mac Build:
 https://drive.google.com/file/d/1qJ36dErri80qnHf6B09ss-gAXUmWLDtj/view?usp=sharing
+
+Dowload the file and extract
+
+Running the following commands to make the file executable
+cd <PATH_TO_YOUR_APP>/Mac.app/Contents/MacOS/
+chmod +x DugeonScroller
