@@ -22,9 +22,9 @@ MAC:
 	The executable is located in Mac.app/Contnets/MacOS/
 	
 CONTROLS:
-	A: 						Left
-	D: 						right
-	Space: 				Jump
+	A: 			Left
+	D: 			right
+	Space: 			Jump
 	LeftClick: 		Attack
 	RightClick:		Sheild
 	
