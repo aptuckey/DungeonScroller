@@ -1,6 +1,9 @@
 # DungeionScroller
-Installation
-**BE AWARE** THERE IS SOUND. Check the volume slider in settings when you open the game
+
+**BE AWARE THERE IS SOUND. Check the volume slider in settings when you open the game **
+
+Installation Instructions
+
 WINDOWS:
 	
 	Download all the project files, extract, and run dungeonScroller.exe
