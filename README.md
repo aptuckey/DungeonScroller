@@ -1,4 +1,4 @@
-# DungeionScroller
+# Dungeon Man
 
 **BE AWARE THERE IS SOUND. Check the volume slider in settings when you open the game **
 
